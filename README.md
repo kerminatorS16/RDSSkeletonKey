@@ -1,5 +1,5 @@
 # RDSSkeletonKey
-RDSSkeletonKey is a python port of Stanley Sixteens RDS enumeration tool
+RDS Skeleton Key is a python port of Stanley Sixteens RDS enumeration tool
 I'd like to announce the availability of a free security reconnaissance /
 RDS. This tool enables the user to scan for vulnerable RDS instances on AWS environments using a defined RDS protocol.
 
